@@ -1,0 +1,1 @@
+- intensity of a wave = total energy falling per unit area per unit time on a perpendicular cross section
