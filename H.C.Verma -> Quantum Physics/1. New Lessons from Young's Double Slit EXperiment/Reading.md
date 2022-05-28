@@ -1,9 +1,9 @@
 - light travels in straight lines
 
 - Rules of reflection 
-> light reflects off of smooth surfaces \
-> The incident ray, the reflected ray and the normal lie in the same plane \
-> The angle of incidence is equal to the angle of reflection
+> - light reflects off of smooth surfaces \
+> - The incident ray, the reflected ray and the normal lie in the same plane \
+> - The angle of incidence is equal to the angle of reflection
 
 - Refraction
 > when light travelling in a transparent medium enters another transparent medium, it bends unless it falls on the second medium normally
