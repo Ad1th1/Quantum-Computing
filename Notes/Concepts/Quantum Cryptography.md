@@ -18,4 +18,4 @@ Quantum - key Distribution:\
 -> Then Alice sends her key over an unencrypted channel and Bob keeps the ones on his side that were right. These are then exchanged and a common key is 
 obtained
 
--> In quantum mechanics, it is impossible to copy an arbitrary state without destroying it => no cloning theorem\
+-> In quantum mechanics, it is impossible to copy an arbitrary state without destroying it => no cloning theorem
