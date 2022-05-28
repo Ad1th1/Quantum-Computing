@@ -1,8 +1,8 @@
 - light travels in straight lines
 
-- Rules of reflection 
-> light reflects off of smooth surfaces 
-> The incident ray, the reflected ray and the normal lie in the same plane 
+- Rules of reflection \
+> light reflects off of smooth surfaces \
+> The incident ray, the reflected ray and the normal lie in the same plane \
 > The angle of incidence is equal to the angle of reflection
 
 - Refraction
