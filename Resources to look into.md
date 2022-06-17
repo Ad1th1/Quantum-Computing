@@ -6,3 +6,7 @@
 
 - Parth G Vlogs
 - 3 Blue 1 Brown
+
+To Understand:
+- Dirac Notations
+- 
